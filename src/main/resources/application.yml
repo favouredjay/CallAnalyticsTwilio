@@ -1,0 +1,12 @@
+
+#twilioConfiguration
+twilio:
+  account_sid: ACd675991b37d03844befa5110af0ff2d0
+  auth_token: 1345ed72747f454d834e117520b1ed39
+  from_number: +16592663412
+
+
+
+spring:
+  autoconfigure:
+    exclude: org.springframework.boot.autoconfigure.jdbc.DataSourceAutoConfiguration
